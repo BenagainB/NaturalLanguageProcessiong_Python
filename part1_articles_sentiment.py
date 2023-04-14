@@ -62,7 +62,7 @@ CNN_AVERAGE_POLARITY = CNN_TOTAL_POLARITY / 10
 CNN_AVERAGE_SUBJECTIVITY = CNN_TOTAL_SUBJECTIVITY / 10
 
 print("")
-print("Sentiment analysis")
+print("Sentiment analysis for 10 CNN and 10 Fox articles")
 print("Article polarity score is a float within the range [-1.0, 1.0] and "
     + "reflects negative to positive perceived word choice.")
 print("Article subjectivity score as a float within the range [0.0, 1.0] where "
@@ -72,3 +72,36 @@ print("Fox average article subjectivity: ", FOX_AVERAGE_SUBJECTIVITY)
 print("")
 print("CNN average article polarity: ", CNN_AVERAGE_POLARITY)
 print("CNN average article subjectivity: ", CNN_AVERAGE_SUBJECTIVITY)
+print("These articles act as our training set to see if naive bayes can" +
+    " differentiate CNN from Fox articles.")
+
+# Assuming a good size for a test set is 60% the size of the training set, we need 12 more articles
+
+PART_2_ARTICLES =['Part1_Test_Articles/CNN011.txt', 'Part1_Test_Articles/CNN012.txt',
+                'Part1_Test_Articles/CNN013.txt', 'Part1_Test_Articles/CNN014.txt',
+                'Part1_Test_Articles/CNN015.txt', 'Part1_Test_Articles/CNN016.txt',
+                'Part1_Test_Articles/FOX011.txt', 'Part1_Test_Articles/FOX012.txt',
+                'Part1_Test_Articles/FOX013.txt', 'Part1_Test_Articles/FOX014.txt',
+                'Part1_Test_Articles/FOX015.txt', 'Part1_Test_Articles/FOX016.txt']
+
+train = []
+for article in articles:
+    if 'FOX' in article:
+        text = open(article, encoding='UTF-8')
+        text = text.read()
+        train.append((text, 'FOX'))
+    else:
+        text = open(article, encoding='UTF-8')
+        text = text.read()
+        train.append((text, 'CNN'))
+
+test = []
+for article in PART_2_ARTICLES:
+    if 'FOX' in article:
+        text = open(article, encoding='UTF-8')
+        text = text.read()
+        train.append((text, 'FOX'))
+    else:
+        text = open(article, encoding='UTF-8')
+        text = text.read()
+        train.append((text, 'CNN'))
