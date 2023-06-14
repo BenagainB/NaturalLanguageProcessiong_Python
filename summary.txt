@@ -1,0 +1,31 @@
+Approach:
+
+
+Tools:
+
+
+Part 1 Sentiment Analysis (polarity and subjectivity), Naive Bayes Classification:
+
+
+
+Part 2 POS Tagging:
+
+
+
+Part 3 Root Languages:
+
+
+
+Next Steps:
+POS tag all words in an article and aggregate then generate statistics for CNN and FOX, compare statistics
+
+Lemmatize all words in article, classify root language, keep only german and french, generate raw score, generate statistics for CNN and FOX, compare statistics
+
+Scrape 500 articles for CNN and FOX and re-run all prior work
+
+Scrape 500 articles for MSNBC (https://feeds.nbcnews.com/msnbc/public/news) and NY Post (https://nypost.com/feed/) and re-run prior work with these contrasting
+
+Join CNN with MSNBC, and FOX with NYPost and re-run prior work
+
+
+NLT 14JUNE2023 Report 

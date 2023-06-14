@@ -1,0 +1,29 @@
+The Manhattan district attorney’s office — which already has charged Donald Trump with 34 felony counts in relation to the Stormy Daniels hush money scheme — has upped the ante against a potential cooperator in that case, according to a New York Times report on Friday that cited people with knowledge of the matter.
+
+Because former Trump Organization CFO Allen Weisselberg apparently has not signaled any willingness to testify against Trump, the DA’s office has turned “in recent weeks” to exploring perjury charges against him, two of the people with knowledge of the matter told the Times.
+
+Those charges would be in addition to, not in lieu of, any insurance fraud charges, which the DA’s team has been investigating for several months, if not longer. Indeed, prosecutors already have warned Weisselberg’s lawyers that such charges could be forthcoming and that they focus on Weisselberg’s alleged lies to an insurance company “by claiming that the value of the Trump Organization’s real estate holdings had been assessed by an independent appraiser, when in fact they had not been,” the Times reported.
+
+The potential perjury charges, by contrast, “would center on Mr. Weisselberg’s 2020 interview with [Attorney General Leticia] James’s investigators,” during which he was “questioned about some significant errors in Mr. Trump’s financial statements,” the Times reported, citing the people with knowledge of the matter.
+
+But what exactly could Weisselberg have potentially lied about during that interview? After all, the Times notes that Weisselberg “acknowledged that the Trump Organization had overvalued Mr. Trump’s penthouse apartment in Trump Tower by ‘give or take’ $200 million,” but that statement has been understood as an admission of the truth, not a lie in and of itself.
+
+Let’s start with the fact that Weisselberg was interviewed by the attorney general’s office three times in 2020: on July 16, July 17, and September 24. The transcripts of those depositions are at least partially public through filings in the attorney general’s civil fraud lawsuit against the Trump Organization, Trump himself, three of his children, and Weisselberg, among others.
+
+And even a cursory read of those transcripts, coupled with other filings by the attorney general, suggests at least one potential avenue for a perjury charge: Weisselberg’s involvement in the overvaluation of Trump’s triplex apartment in Trump Tower and at what point he knew that valuation was false.
+
+Specifically, on July 17, 2020, Weisselberg was asked by the attorney general’s office about the valuation of Trump’s apartment, as included in Trump’s 2015 statement of financial condition. Weisselberg agreed that the valuation was premised on the apartment having square footage nearly three times the size of the actual apartment. And as the Times indicated on Friday, he further agreed the apartment was overvalued because of that mistake by “give or take” $200 million.
+
+Weisselberg was then asked if he had ever “advised any financial institutions that the 2015 statement of financial condition contains this error.” His response? “Well, we didn’t find out about the error until the Forbes article came out, and we just issued statements year over year, we don’t make phone calls during the course of the year or send out letters during the course of the year for a situation like this. It gets adjusted the following year.”
+
+That all seems reasonable — until you see how the attorney general portrays the facts in a brief filed last fall. That brief clearly states, “Weisselberg admitted that the Statements overvalued Mr. Trump’s apartment by ‘give or take’ $200 million — and evidence later revealed he was provided with the true facts regarding the apartment’s square footage before certifying as accurate the inflated apartment value based on false information.” A related filing that same day — an affirmation prepared by a lawyer in the attorney general’s office — details more precisely what Weisselberg knew about the Trump Tower apartment and when:
+
+Tripling the size of the apartment for valuation purposes was intentional and deliberate fraud, not an honest mistake; documents demonstrating the true size of Mr. Trump’s triplex (most notably the condominium offering plan and associated amendments for Trump Tower) were easily accessible inside the Trump Organization, were signed by Mr. Trump, and were sent to Mr. Weisselberg in 2012.
+
+By contrast, “the Forbes article” Weisselberg referenced in his deposition, according to the attorney general’s filings, was not provided to Weisselberg until March 2017, when he, as well as Donald Trump, Jr. and Eric Trump, were alerted that while Trump told Forbes his apartment was roughly 33,000 square feet, the magazine found property records and “concluded it was less than one third that size.”
+
+Put another way, at least according to the attorney general’s version of events, Weisselberg didn’t learn the valuation was false after the fact, as he testified. Instead, he received documents reflecting the “true size of the triplex” years before he certified the 2015 financial statement. 
+
+Therefore, the Manhattan DA’s office has a colorable argument that Weisselberg lied under oath during his July 17, 2020, deposition. The DA’s office declined to comment for this post.
+
+Whether that specific testimony or other statements made under oath to the attorney general’s office will result in an entirely new indictment of Weisselberg on perjury and/or insurance fraud counts is another story. Watch this space.

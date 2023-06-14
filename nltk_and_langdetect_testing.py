@@ -25,3 +25,6 @@ for word in tokens:
 
 tagged = nltk.pos_tag(tokens)
 print(tagged)
+
+
+print(detect("food"))

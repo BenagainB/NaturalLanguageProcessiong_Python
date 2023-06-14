@@ -1,0 +1,35 @@
+The US State Department on Tuesday offered a $10 million reward for information leading to the arrest or conviction of a Russian man accused of a 2021 ransomware attack on the Washington, DC, Police Department that led to the leak of sensitive police files.
+
+Mikhail Matveev, who was also charged with hacking related-crimes and sanctioned on Tuesday, has bragged about his alleged hacking exploits online – but the US government is apparently looking for more specific information that could lead to his arrest.
+
+He was charged with damaging computers and transmitting ransom demands in federal grand jury indictments in New Jersey and the District of Columbia.
+
+Matveev has been prolific among Russian ransomware gangs that lock up computer files and demand exorbitant payoffs from US companies and government agencies, according to US prosecutors. Three of the types of ransomware that Matveev allegedly worked with have cost victims $200 million in extortion fees, the Justice Department said.
+
+Asked for comment by CNN on Twitter, Matveev replied with a video with a Russian man repeating the phrase, “I don’t give a f*** at all.”
+
+The immediate prospects of Matveev seeing the inside of a US courtroom are slim. His response to the charges exemplifies the impunity that Russian hackers feel in being able to attack US organizations from the safety of Russian soil.
+
+The US and Russia do not have an extradition agreement, and any faint hope of Russian help in rounding up hacking suspects faded with Russia’s full-scale war on Ukraine.
+
+“In the current environment, there are few reasons for Moscow to curb cybercrime emanating from within its borders, and in fact every incentive to tacitly approve or orchestrate the worst they can throw at the West,” said Gavin Wilde, a former National Security Council official focused on Russia.
+
+Matveev lives in the Russian enclave of Kaliningrad and regularly visits the Russian city of St. Petersburg, according to Azim Khodjibaev, senior threat analyst at Cisco Talos, who has tracked Matveev for years.
+
+While Matveev hasn’t been shy about claiming responsibility for hacks, there is no indication that he would risk arrest by leaving Russia.
+
+Among Matveev’s alleged victims was a nonprofit health care organization in New Jersey and a law enforcement agency in New Jersey. In April 2021, Matveev was involved in one of his most high-profile hacks yet: the breach of computers at the DC Police Department and a demand of $4 million not to release the stolen data.
+
+After the department apparently didn’t meet the demand, the ransomware gang that Matveev allegedly worked with published a trove of the stolen police data, which The Associated Press reported included police officer disciplinary files and intelligence reports.
+
+The two-year investigation into the ransomware attack on the DC Police Department “spanned numerous continents” and involved the FBI, said Metropolitan Police Chief Robert J. Contee III in a statement Tuesday.
+
+Matveev has long been known for his brash and erratic behavior online. He surfaced on Twitter last year and began tweeting about his involvement in ransomware. He circulated a photo of himself aboard a Russian airline, asking at least one researcher to promote the photo.
+
+But after sending this CNN reporter a cryptic message in July 2022, Matveev had yet to respond to multiple questions over several months about his alleged hacking activities until the profane video he sent Tuesday.
+
+“He really doesn’t have much to lose by coming out” with his public identity, Khodjibaev previously told CNN. “As long as these guys have access to a computer, they don’t have a reason to stop.”
+
+Matveev has been advertising hacking services on criminal forums as far back as 2009, according to cybersecurity firm Intel 471. His turn to ransomware in recent years opened up more financial opportunities but also likely put him more firmly on the radar of law enforcement and private investigators.
+
+Matveev’s “career path” is an example of the evolution that some cybercriminals make from “low-level, unsophisticated activity” to increasing their “underground notoriety, attention and reputation as they hone their skills and build their portfolio,” Michael DeBolt, Intel 471’s chief intelligence officer, told CNN.

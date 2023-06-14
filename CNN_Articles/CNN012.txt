@@ -1,0 +1,52 @@
+When FBI tactical agents wielding assault rifles confronted Robert Hanssen one Sunday evening in 2001, the most dangerous spy in US history was finally put out of service.
+
+Hanssen, a senior FBI special agent at the time, had just finished stashing a trove of classified documents under a bridge in Virginia that was intended to later be collected by his Russian handlers.
+
+As in the similar case of former CIA officer Aldrich Ames, who had been arrested by the FBI seven years earlier after similarly passing secrets for years that led to the execution of countless Russian intelligence officials covertly working for the US government, and the later arrests of accused leakers Chelsea Manning and Reality Winner, celebration inside the intelligence community after finally catching a spy is often short-lived.
+
+What typically follows a successful mole hunt is an intense period of public outrage, accusations of gross incompetence, and the launching of congressional and inspector general investigations aimed at determining how the US intelligence community could have been so vulnerable to compromise.
+
+Such is the familiar situation the Defense Department and the larger US intelligence community now finds itself in as the fallout continues from the disclosure of a tranche of highly classified government secrets online with topics reportedly ranging from battlefield estimates pertaining to Russia’s war against Ukraine, internal fighting in the Kremlin, and US intelligence collection on its allies.
+
+On Thursday, US Attorney General Merrick Garland announced that 21-year-old Massachusetts Air National Guardsman Jack Teixeira was taken into custody by federal agents and accused of “alleged unauthorized removal, retention and transmission of classified national defense information.”
+
+Plugging Leaks
+While there is currently no indication that Teixeira allegedly leaked classified documents at the behest or under the control of a foreign power, investigations into major American spy cases involving suspects with varying motivations have uncovered serious inadequacies in the government’s ability to guard itself against penetration.
+
+In the case of convicted CIA spy Ames, congressional investigators slammed the agency for its ability to deal with Ames’ suitability problems, including “drunkenness, disregard for security regulations, and sloppiness towards administrative requirements.”
+
+“The Ames case reveals glaring weaknesses in the CIA’s procedures for dealing with the career assignments of employees who are under suspicion for compromising intelligence operations,” the Senate Select Committee on Intelligence wrote in its 1994 report.
+
+After Hanssen’s treachery was exposed, investigators learned he had full access to the FBI and State Department’s computer systems and would spend hours trawling undetected for classified information. In his 25 years with the bureau, with access to highly sensitive sources and methods about US intelligence efforts targeting the Soviet Union and Russia, Hanssen had never been subjected to a polygraph examination.
+
+After the Ames and Hanssen cases, the CIA and FBI moved to strengthen its so-called insider threat programs aimed at safeguarding the nation’s secrets by closely scrutinizing the finances and travel of personnel with access to classified information, and increasing the use of polygraphs to routinely assess employees for continued allegiance and suitability.
+
+Before Hanssen was exposed, then-FBI Director Robert Mueller said, “security was not a principle priority. There was no security division. The FBI didn’t have enough expertise. We moved to address that.”
+
+‘Sophisticated and vigilant means’
+More recent espionage cases, including that of former Army private Chelsea Manning, unearthed vulnerabilities posed by the fact numerous individuals have almost free range access to US secrets. Manning was convicted and her sentence was eventually commuted after leaking State and Defense Department secrets while serving as an intelligence analyst in Iraq.
+
+An Army forensic specialist testified that source code on Manning’s computer referenced hundreds of thousands of secret documents, and in some cases the full documents themselves.
+
+In response to that case, President Barack Obama issued an executive order underscoring the need for “sophisticated and vigilant means” to protect digital classified networks and directed the nation’s intelligence agenices to institute “structural reforms to ensure responsible sharing and safeguarding of classified networks.”
+
+Common practices now employed include a crackdown on the uncontrolled use of removable storage devices like flash drives, with modern scanning technology now alerting agency security personnel when an unauthorized device is inserted into a government system.
+
+So-called User Activity Monitoring capabilities have also been deployed to track the browsing habits of those with access to classified systems. These measures include robust monitoring of searches made in classified databases, information downloaded, and documents that are printed or copied. Users receive standardized log-in notifications advising them that their every move on the system is subject to monitoring and intelligence community employees have no expectation of privacy.
+
+Ongoing Vulnerabilities
+While intelligence agencies like the FBI and CIA have increased precautions, the Defense Department, which employs the bulk of America’s intelligence community employees, remains extremely vulnerable, and will almost certainly be taken to task by oversight investigators following the latest disclosures.
+
+Although much is still not publicly known about Teixeira’s level of clearance and his US government background investigation, one major issue for the Defense Department pertains to how often and robustly counterintelligence officials scrutinize employees with access to information on an ongoing basis. While agencies like FBI and CIA require polygraphs for all employees when hired, and again throughout their careers during periodic reinvestigations, polygraphs are not mandatory for some Defense Department personnel who have Top Secret clearances.
+
+Many have scrutinized the legitimacy and foolproof nature of the polygraph exam, but intelligence community officials believe, at the very least, it helps serve as a deterrent for improper disclosures if employees know they will be subjected to periodic exams.
+
+Another major issue pertains to how classified information is distributed to military and intelligence personnel. In order for national security officials to do their jobs, they necessarily must have access to databases and distribution lists containing raw and analyzed intelligence. But widespread access to the nation’s secrets, even among those with security clearances, violates a key intelligence community tenet that information only be access by people with a “need to know.”
+
+Former NSA General Counsel Glenn Gerstell says the US government must do more to focus on improving procedures for dissemination, how many people have access to information, “and what kind of access controls [can] prevent people from printing out something and walking out the door with it.”
+
+The Pentagon has already signaled it is beginning to learn the lessons of this leak, telling reporters the department is exploring “mitigation measures in terms of what we can do to prevent potential additional unauthorized leaks.” CNN has reported that some US officials who used to receive certain highly classified intelligence briefs have stopped receiving them in recent days, as the Pentagon’s Joint Staff continues to whittle down its distribution lists.
+
+Despite initial efforts to stanch the unauthorized flow of classified secrets, congressional investigators have already begun placing the Pentagon in the crosshairs of aggressive oversight.
+
+Speaking with CNN’s Jake Tapper after Thursday’s arrest, House Intelligence ranking member Jim Himes, a Connecticut Democrat, said: “This is a system and a process which obviously failed in a very substantial way. And that’s where Congress comes in. Our job is oversight, and you can bet we’re going to be doing it.”

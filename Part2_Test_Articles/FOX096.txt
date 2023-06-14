@@ -1,0 +1,54 @@
+A new study is suggesting that robots with more "charismatic" voices – as opposed to flat, matter-of-fact ones – can help people be more creative. 
+
+Scientists from Denmark found that students who are given a task by a robot with a voice programmed to be more "engaging" and "inspiring" performed better.
+
+These students were also more creative than students who received instructions from an identical robot with a flat voice, according to the findings from researchers in Denmark as published by Frontiers in Communication, a peer-reviewed, open-access science journal. 
+
+Increasingly, social robots are being used for support in educational settings, as SWNS, the British news service, noted.
+
+But the Danish research team wanted to determine if the sounds emitted by a robot actually affected the students' performance.
+
+While teamwork is a key factor in human creativity, boosting collaboration and new ideas, the researchers said they wanted to understand whether robots using a voice designed to sound charismatic would be more "successful" as creativity facilitators.
+
+Said Dr. Kerstin Fischer of the University of Southern Denmark, one of the study's authors, "We had a robot instruct teams of students in a creativity task. The robot either used a confident, passionate – i.e., charismatic – tone of voice or a normal, matter-of-fact tone of voice," as SNWS reported.
+
+She went on, "We found that when the robot spoke in a charismatic speaking style, students’ ideas were more original and more elaborate."
+
+Dr. Fischer and colleagues used a text-to-speech function engineered for characteristics associated with charismatic speaking, such as a specific pitch range and a certain way of stressing words.
+
+Two voices were developed – one charismatic and one less expressive, said SWNS.
+
+The scientists recruited five classes of university students; the students were all taking courses that included an "element of team creativity," as SWNS noted.
+
+Students were told they were testing a creativity workshop, which involved "brainstorming" ideas based on images and then using those ideas to come up with a new chocolate product.
+
+A robot speaking on video "led" the workshop: It introduced the task, reassured the teams of students that there were no bad ideas – and then, afterward, congratulated them for completing the task. 
+
+It then asked them to fill out a self-evaluation survey, as SWNS noted.
+
+The questionnaire evaluated the robot’s performance, the students’ own views on how their teamwork went – and the success of the session.
+
+Creativity levels of each session were measured by the number of original ideas produced and by how elaborate they were; the researchers measured them as well. 
+
+The group that heard the "charismatic" voice rated the robot more positively, finding it more interactive.
+
+Their perception of their teamwork was also more positive and they produced more original and elaborate ideas.
+
+They also rated their teamwork more highly.
+
+But the group that heard the non-charismatic voice perceived themselves as more resilient and efficient, possibly because a less charismatic leader led to better organization by the team members themselves, although they produced fewer ideas.
+
+Study co-author Dr. Oliver Niebuhr, also of the University of Southern Denmark, said, "I had suspected that charismatic speech has very important effects, but our study provides clear evidence for the effect of charismatic speech on listener creativity," as SWNS reported of his remarks.
+
+"This is the first time that such a link between charismatic voices, artificial speakers and creativity outputs has been found," he also said.
+
+Limitations of the new study 
+Although the sessions with the robot's charismatic voice were generally more successful, not all the teams responded identically to the different voices. The researchers acknowledged that previous experiences in the students' different classes may have affected their response.
+
+The scientists said that bigger studies are needed to understand how external factors affected team performance.
+
+Added Dr. Fischer, "The robot was present only in videos, but one could suspect that more exposure or repeated exposure to the charismatic speaking style would have even stronger effects," as SWNS reported.
+
+She also said, "We have only varied a few features between the two robot conditions. We don't know how the effect size would change if other or more features were varied."
+
+"Finally, since charismatic speaking patterns differ between cultures, we would expect that the same stimuli will not yield the same results in all languages and cultures," Dr. Fischer also said, as SWNS reported.

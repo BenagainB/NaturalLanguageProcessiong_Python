@@ -1,0 +1,19 @@
+Apple on Tuesday announced a series of new accessibility tools for the iPhone and iPad, including a feature that promises to replicate a user’s voice for phone calls after only 15 minutes of training.
+
+With an upcoming tool called Personal Voice, users will be able to read text prompts to record audio and have the technology learn their voice. A related feature called Live Speech will then use the “synthesized voice” to read the user’s typed text aloud during phone calls, FaceTime conversations and in-person conversations. People will also be able to save commonly used phrases to use during live conversations.
+
+The feature is one of several aimed at making Apple’s devices more inclusive for people with cognitive, vision, hearing and mobility disabilities. Apple said people who may have conditions where they lose their voice over time, such as ALS (amyotrophic lateral sclerosis) could benefit most from the tools.
+
+“Accessibility is part of everything we do at Apple,” said Sarah Herrlinger, Apple’s senior director of Global Accessibility Policy and Initiatives, in a company blog post. “These groundbreaking features were designed with feedback from members of disability communities every step of the way, to support a diverse set of users and help people connect in new ways.”
+
+Apple said the features will roll out later this year.
+
+While these tools have potential to meet a genuine need, they also come at a moment when advancements in artificial intelligence have raised alarms about bad actors using convincing fake audio and video – known as “deepfakes” – to scam or misinform the public.
+
+In the blog post, Apple said the Personal Voice feature uses “on-device machine learning to keep users’ information private and secure.”
+
+Other tech companies have experimented with using AI to replicate a voice. Last year, Amazon said it’s working on an update to its Alexa system that would allow the technology to mimic any voice, even a deceased family member. (The feature has not yet been released).
+
+In addition to the voice features, Apple announced Assistive Access, which combines some of the most popular iOS apps, such as FaceTime, Messages, Camera, Photos, Music and Phone, into one Calls app. The interface includes high-contrast buttons, large text labels, an option for an emoji-only keyboard and the ability to record video messages for people who may prefer visual or audio communications.
+
+Apple is also updating its Magnifier app for the visually impaired. It will now include a detection mode to help people better interact with physical objects. The update would allow someone, for example, to hold up an iPhone camera in front of a microwave and move their finger across the keypad as the app labels and announces the text on the microwave’s buttons.

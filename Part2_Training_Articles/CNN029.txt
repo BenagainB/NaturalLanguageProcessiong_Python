@@ -1,0 +1,71 @@
+For a few months in 2017, there were rumors that Sam Altman was planning to run for governor of California. Instead, he kept his day job as one of Silicon Valley’s most influential investors and entrepreneurs.
+
+But now, Altman is about to make a different kind of political debut.
+
+Altman, the CEO and co-founder of OpenAI, the artificial intelligence company behind viral chatbot ChatGPT and image generator Dall-E, is set to testify before Congress on Tuesday. His appearance is part of a Senate subcommittee hearing on the risks artificial intelligence poses for society, and what safeguards are needed for the technology.
+
+House lawmakers on both sides of the aisle are also expected to hold a dinner with Altman on Monday night, according to multiple reports. Dozens of lawmakers are said to be planning to attend, with one Republican lawmaker describing it as part of the process for Congress to assess “the extraordinary potential and unprecedented threat that artificial intelligence presents to humanity.”
+
+Earlier this month, Altman was one of several tech CEOs to meet with Vice President Kamala Harris and, briefly, President Joe Biden as part of the White House’s efforts to emphasize the importance of ethical and responsible AI development.
+
+The hearing and meetings come as ChatGPT has sparked a new arms race over AI. A growing list of tech companies have deployed new AI tools in recent months, with the potential to change how we work, shop and interact with each other. But these same tools have also drawn criticism from some of tech’s biggest names for their potential to disrupt millions of jobs, spread misinformation and perpetuate biases.
+
+As the CEO of OpenAI, Altman, perhaps more than any other single figure, has come to serve as a face for a new crop of AI products that can generate images and texts in response to user prompts. This week’s hearing may only cement his stature as a central player in AI’s rapid growth – and also add to scrutiny of him and his company.
+
+Those who know Altman have described him as a brilliant thinker, someone who makes prescient bets and has even been called “a startup Yoda.” In interviews this year, Altman has presented himself as someone who is mindful of the risks posed by AI and even “a little bit scared” of the technology. He and his company have pledged to move forward responsibly.
+
+“If anyone knows where this is going, it’s Sam,” Brian Chesky, the CEO of Airbnb, wrote in a post about Altman for the latter’s inclusion this year on Time’s list of the 100 most influential people. “But Sam also knows that he doesn’t have all the answers. He often says, ‘What do you think? Maybe I’m wrong?’ Thank God someone with so much power has so much humility.”
+
+Others want Altman and OpenAI to move more cautiously. Elon Musk, who helped found OpenAI before breaking from the group, joined dozens of tech leaders, professors and researchers in signing a letter calling for artificial intelligence labs like OpenAI to stop the training of the most powerful AI systems for at least six months, citing “profound risks to society and humanity.”
+
+Altman has said he agreed with parts of the letter. “I think moving with caution and an increasing rigor for safety issues is really important,” Altman said at an event last month. “The letter I don’t think was the optimal way to address it.”
+
+OpenAI declined to make anyone available for an interview for this story.
+
+The next Bill Gates
+The success of ChatGPT may have brought Altman greater public attention, but he has been a well-known figure in Silicon Valley for years.
+
+Prior to cofounding OpenAI with Musk in 2015, Altman, a Missouri native, studied computer science at Stanford University, only to drop out to launch Loopt, an app that helped users share their locations with friends and get coupons for nearby businesses.
+
+In 2005, Loopt was part of the first batch of companies at Y Combinator, a prestigious tech accelerator. Paul Graham, who co-founded Y Combinator, later described Altman as “a very unusual guy.”
+
+“Within about three minutes of meeting him, I remember thinking ‘Ah, so this is what Bill Gates must have been like when he was 19,’” Graham wrote in a post in 2006.
+
+Loopt was acquired in 2012 for about $43 million. Two years later, Altman took over from Graham as president of Y Combinator. The position allowed Altman to connect him with numerous powerful figures in the tech industry. He remained at the helm of the accelerator until 2019.
+
+Margaret O’Mara, a tech historian and professor at the University of Washington, told CNN that Altman “has long been admired as a thoughtful, significant guy and in the remarkably small number of powerful people who are kind of at the top of tech and have a lot of sway.”
+
+During the Trump administration, Altman gained new attention as a vocal critic of the president. It was against that backdrop that he was rumored to be considering a run for California governor.
+
+Rather than running, however, Altman instead looked to back candidates who aligned with his values, which include lower cost of living, clean energy and taking 10% off the defense budget to give to research and development of future technology.
+
+Altman continues to push for some of these goals through his work in the private sector. He invested in Helion, a fusion research company that inked a deal with Microsoft last week to sell clean energy to the tech giant by 2028.
+
+Altman has also been a proponent of the idea of a universal basic income and has suggested that AI could one day help fulfill that goal by generating so much wealth it could be redistributed back to the public.
+
+As Graham told The New Yorker about Altman in 2016, “I think his goal is to make the whole future.”
+
+An overnight AI sensation years in the making
+When launching OpenAI, Musk and Altman’s original mission was to get ahead of the fear that AI could harm people and society.
+
+“We discussed what is the best thing we can do to ensure the future is good?” Musk told the New York Times about a conversation with Altman and others before launching the company. “We could sit on the sidelines or we can encourage regulatory oversight, or we could participate with the right structure with people who care deeply about developing A.I. in a way that is safe and is beneficial to humanity.”
+
+In an interview at the launch of OpenAI, Altman explained the company as his way of trying to steer the path of AI technology. “I sleep better knowing I can have some influence now,” he said.
+
+If there’s one thing AI enthusiasts and critics can agree on right now, it may be that Altman clearly has succeeded in having some influence over the rapidly evolving technology.
+
+Less than six months after the release of ChatGPT, it has become a household name, almost synonymous with AI itself. CEOs are using it to draft emails. Realtors are using it to write iistings and draft legal documents. The tool has passed exams from law and business schools – and been used to help some students cheat. And OpenAI recently released a more powerful version of the technology underpinning ChatGPT.
+
+Tech giants like Google and Facebook are now racing to catch up. Similar generative AI technology is quickly finding its way into productivity and search tools used by billions of people.
+
+A future that once seemed very far off now feels right around the corner, whether society is ready for it or not. Altman himself has professed not to be sure about how it will turn out.
+
+O’Mara said she believes Altman fits into “the techno-optimist school of thought that has been dominant in the Valley for a very long time,” which she describes as “the idea that we can devise technology that can indeed make the world a better place.”
+
+While Altman’s cautious remarks about AI may sound at odds with that way of thinking, O’Mara argues it may be an “extension” of it. In essence, she said, it’s related to “the idea that technology is transformative and can be transformative in a positive way but also has so much capacity to do so much that it actually could be dangerous.”
+
+And if AI should somehow help bring about the end of society as we know it, Altman may be more prepared than most to adapt.
+
+“I prep for survival,” he said in a 2016 profile of him in the New Yorker, noting several possible disaster scenarios, including “A.I. that attacks us.”
+
+“I try not to think about it too much,” Altman said. “But I have guns, gold, potassium iodide, antibiotics, batteries, water, gas masks from the Israeli Defense Force, and a big patch of land in Big Sur I can fly to.”
